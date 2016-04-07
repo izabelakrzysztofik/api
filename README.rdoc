@@ -4,5 +4,5 @@ To run application execute in terminal:
 
 * <tt>bundle install</tt>
 * <tt>bin/rake db:migrate db:seed</tt>
-* <tt>thin start --ssl -p 3000</tt>
+* <tt>rails s</tt>
 
