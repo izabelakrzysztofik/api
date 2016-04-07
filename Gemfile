@@ -6,7 +6,6 @@ gem 'rails-api'
 gem 'sqlite3'
 gem 'jbuilder'
 gem 'active_model_serializers', github: 'rails-api/active_model_serializers'
-gem 'thin'
 
 group :development do
   gem 'spring'
